@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Sports
 
 [Analyzing Exit Velocity and Swing Probabilities](/sports/Coding-Assignment--1.html)
 <img src="images/seager-ev.png?raw=true"/>
