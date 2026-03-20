@@ -8,8 +8,8 @@
 <img src="images/seager-ev.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Clustering NWSL Players](/sports/Coding-Assignment--2.htmlf)
+<img src="images/nwsl-cluster.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
