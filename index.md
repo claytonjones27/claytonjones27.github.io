@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sports/Coding-Assignment--1.html)
+[Analyzing Exit Velocity and Swing Probabilities](/sports/Coding-Assignment--1.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
