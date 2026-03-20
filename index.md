@@ -5,7 +5,7 @@
 ### Sports
 
 [NBA Four Factors Model and Categorizing Players](/sports/Player-Categorization-Assignment.html)
-<img src="images/nba-cluster.jpg?raw=true"/>
+<img src="images/nba-cluster.png?raw=true"/>
 
 ---
 [Analyzing Exit Velocity and Swing Probabilities](/sports/Coding-Assignment--1.html)
