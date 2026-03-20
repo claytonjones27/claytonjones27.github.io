@@ -8,6 +8,10 @@
 <img src="images/nba-cluster.png?raw=true"/>
 
 ---
+[NFL Win Probability Model](/sports/Player-Categorization-Assignment.html)
+<img src="images/nfl-wp.png?raw=true"/>
+
+---
 [Analyzing Exit Velocity and Swing Probabilities](/sports/Coding-Assignment--1.html)
 <img src="images/seager-ev.png?raw=true"/>
 
