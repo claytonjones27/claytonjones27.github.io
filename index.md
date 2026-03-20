@@ -2,7 +2,7 @@
 
 ---
 
-### Sports
+### Projects
 
 [NBA Four Factors Model and Categorizing Players](/sports/Player-Categorization-Assignment.html)
 <img src="images/nba-cluster.png?raw=true"/>
@@ -18,13 +18,10 @@
 ---
 
 
-### Category Name 2
+### Dashboards
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Second Contract Value vs Athleticism for NFL Draft Picks 2000-2020](https://claytonjones.shinyapps.io/NFLDraftMeasurementsAndSecondContract/)
+- [Predicting Renewals for Fertility Benefits](https://claytonjones.shinyapps.io/Alluvia_Dashboard/)
 
 ---
 
