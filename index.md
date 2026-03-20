@@ -4,6 +4,10 @@
 
 ### Sports
 
+[NBA Four Factors Model and Categorizing Players](/sports/Player-Categorization-Assignment.html)
+<img src="images/nba-cluster.jpg?raw=true"/>
+
+---
 [Analyzing Exit Velocity and Swing Probabilities](/sports/Coding-Assignment--1.html)
 <img src="images/seager-ev.png?raw=true"/>
 
@@ -12,10 +16,7 @@
 <img src="images/nwsl-cluster.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ### Category Name 2
 
