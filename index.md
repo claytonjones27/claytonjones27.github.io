@@ -8,7 +8,7 @@
 <img src="images/nba-cluster.png?raw=true"/>
 
 ---
-[NFL Win Probability Model](/sports/Player-Categorization-Assignment.html)
+[NFL Win Probability Model](/sports/Win-Probability-Assignment.html)
 <img src="images/nfl-wp.png?raw=true"/>
 
 ---
