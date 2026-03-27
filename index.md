@@ -12,9 +12,8 @@
 <img src="images/Mortgage-pic.png?raw=true"/>
 
 ---
-
 [Predicting Attendance for Tampa Bay Rays Games](/sports/Attendance-Assignment.html)
-<img src="images/attendence-pic.png?raw=true"/>
+<img src="images/attendance-pic.png?raw=true"/>
 
 ---
 [NFL Win Probability Model](/sports/Win-Probability-Assignment.html)
