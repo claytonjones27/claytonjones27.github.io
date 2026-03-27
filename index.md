@@ -8,6 +8,10 @@
 <img src="images/nba-cluster.png?raw=true"/>
 
 ---
+[Predicting Mortgage Defaults Using Tree Based Models, Regression Based Models, and Neural Networks](/other/Mortgage-Assignment.html)
+<img src="images/Mortgage-pic.png?raw=true"/>
+
+---
 [NFL Win Probability Model](/sports/Win-Probability-Assignment.html)
 <img src="images/nfl-wp.png?raw=true"/>
 
