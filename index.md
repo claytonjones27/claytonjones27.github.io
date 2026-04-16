@@ -12,6 +12,10 @@
 <img src="images/Mortgage-pic.png?raw=true"/>
 
 ---
+[Using Mixed-Integer Linear Programming to Schedule Flights](/other/Airline-Fleet-Optimization.html)
+<img src="images/airport-photo.jpg?raw=true"/>
+
+---
 [Predicting Attendance for Tampa Bay Rays Games](/sports/Attendance-Assignment.html)
 <img src="images/attendance-pic.png?raw=true"/>
 
